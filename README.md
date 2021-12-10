@@ -1,1 +1,1 @@
-# gk-melody - учебный проект
+# gk-melody
