@@ -1,5 +1,5 @@
 # gk-melody
-## Технологии
+### Технологии
 - html
 - css
 - javascript
