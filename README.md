@@ -2,4 +2,4 @@
 ### Технологии
 - html
 - css
-- javascript
+- javascript (jquery)
