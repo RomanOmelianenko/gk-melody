@@ -45,6 +45,7 @@ body {
 
 .navbar-item:hover {
   opacity: 1;
+  /* transform: scale(1.05); */
 }
 
 .navbar-link {
@@ -97,6 +98,10 @@ body {
 .home-image path:hover {
   opacity: 1;
   cursor: pointer;
+}
+
+path.current-floor {
+  opacity: 1;
 }
 
 /* counter */
